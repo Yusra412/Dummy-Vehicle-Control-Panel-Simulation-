@@ -2,6 +2,9 @@
 
 A Python-based graphical user interface (GUI) that simulates a vehicle control panel with real-time data visualization and interactive controls. This simulation is designed for testing, demonstration, and educational purposes.
 
+ **Demo Video**  
+[![Watch the Demo](https://img.youtube.com/vi/bzTXAKtNXkM/0.jpg)](https://youtu.be/bzTXAKtNXkM)
+
 Hosted on GitHub under [`Yusra412/Dummy-Vehicle-Control-Panel-Simulation-`](https://github.com/Yusra412/Dummy-Vehicle-Control-Panel-Simulation-), the project adheres to modern development practices with modular design, logging, and responsive behavior.
 
 ---
@@ -33,12 +36,13 @@ Hosted on GitHub under [`Yusra412/Dummy-Vehicle-Control-Panel-Simulation-`](http
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - **Language**: Python 3.8+
 - **Libraries**:
   - `tkinter` (for GUI)
   - `pytest` (for unit testing)
+
 - **Coding Standards**:
   - PEP 8 compliant
   - Type hints on all functions
@@ -46,9 +50,10 @@ Hosted on GitHub under [`Yusra412/Dummy-Vehicle-Control-Panel-Simulation-`](http
 
 ---
 
-##  Installation
+## Installation
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/Yusra412/Dummy-Vehicle-Control-Panel-Simulation-.git
 cd Dummy-Vehicle-Control-Panel-Simulation-
