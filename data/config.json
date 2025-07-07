@@ -1,0 +1,26 @@
+{
+    "refresh_rate": 1000,
+    "simulation_enabled": true,
+    "debug_mode": false,
+    "vehicle_data": {
+        "rpm": 0,
+        "speed_kmh": 0,
+        "odometer_km": 0.007,
+        "gear": "P",
+        "pos_x_m": 3399.815,
+        "pos_y_m": 3399.934,
+        "pos_z_m": 3399.751,
+        "angle_roll_deg": -2.1,
+        "angle_pitch_deg": -4.4,
+        "angle_yaw_deg": 115.6,
+        "roll_rate_degs": 23.2,
+        "pitch_rate_degs": 22.9,
+        "yaw_rate_degs": 168.0,
+        "clutch_value": 0,
+        "break_value": 100,
+        "accel_value": 4.6,
+        "steering_wheel_angle": 60.0,
+        "vehicle_started": false,
+        "maneuver_active": false
+    }
+}
