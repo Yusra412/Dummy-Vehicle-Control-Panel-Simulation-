@@ -1,0 +1,3 @@
+# Core dependencies
+tkinter==0.1.0  # Built-in with Python, included for explicitness (version may vary by Python release)
+pytest>=6.2.5  # For unit testing
